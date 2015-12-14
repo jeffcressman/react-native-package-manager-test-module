@@ -1,0 +1,19 @@
+{
+  "name": "react-native-packager-test-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffcressman/react-native-package-manager-test-module.git"
+  },
+  "author": "Jeff Cressman <jeff.cressman@gmail.com> (https://jeffcressman.info)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffcressman/react-native-package-manager-test-module/issues"
+  },
+  "homepage": "https://github.com/jeffcressman/react-native-package-manager-test-module#readme"
+}
